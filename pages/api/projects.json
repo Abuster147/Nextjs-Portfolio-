@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Ecommerce-Web-Application",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A Shopping platform for Fast-fashion brands",
+    "tags": ["React", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/Abuster147/marketplace-Web-spplication",
+    "demo": "https://haru-fashion.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "Personal-Portfolio",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Personal portfolio website using Reactjs, Sailsjs and tailwindcss",
+    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "demo": "https://abuster147.github.io/Personal-Portfolio-Home-page/"
+  },
+  {
+    "id": 3,
+    "name": "Codeforces-recommendation-system",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "codeforces api to suggest practice problems from the areas in which the user struggles",
+    "tags": ["react", "node", "mongodb", "python", "codeapi", "ML"],
+    "source_code": "https://github.com/Abuster147/Codeforces-recommendation-system",
+     "demo": "https://github.com/Abuster147/Codeforces-recommendation-system"
+  },
+  {
+    "id": 4,
+    "name": "Stock-sentiment-analysis",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["python", "NLP", "Bagofwords", "countvectorizer"],
+    "source_code": "https://github.com/Abuster147/Stock-Sentiment-Analysis",
+    "demo": "https://github.com/Abuster147/Stock-Sentiment-Analysis"
+  }
+]

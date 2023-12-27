@@ -1,0 +1,51 @@
+.container {
+  margin: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.Resume{
+  
+    width: 100%;
+    height: 100vh;
+    border: none;
+  
+}
+
+.Skills{
+  text-align: center;
+
+}
+.empty{
+  padding: 5px;
+}
+.orange{
+  color: orange;
+  font-weight: 500;
+}
+.languages{
+  display: flex;
+  justify-content: space-around;
+ 
+}
+ .image{
+  padding: 0%;
+}
+
+.Edu{
+  /* text-align: center; */
+  font-weight: 500;
+  ;
+}
+.image1{
+  max-width: 10%;
+  max-height: 10%;
+  border-radius: 50px;
+  border: 10;
+
+}
+.wrap{
+  justify-content: space-around;
+  display: flex;
+}
