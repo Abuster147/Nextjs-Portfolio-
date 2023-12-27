@@ -3,7 +3,7 @@
 
 A Visual Studio Code themed developer portfolio website built with React.js and deployed on Vercel.
 
-![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
+website link - https://akash21.vercel.app/
 
 ## Features Roadmap
 
